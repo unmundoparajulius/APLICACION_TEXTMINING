@@ -1,0 +1,27 @@
+{
+    "id": "603A7160",
+    "path": "~/APLICACION_TEXTMINING/Global.R",
+    "project_path": "Global.R",
+    "type": "r_source",
+    "hash": "499613981",
+    "contents": "",
+    "dirty": false,
+    "created": 1670195093943.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "2,14",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1671203906,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1671203906811,
+    "read_only": false,
+    "read_only_alternatives": []
+}

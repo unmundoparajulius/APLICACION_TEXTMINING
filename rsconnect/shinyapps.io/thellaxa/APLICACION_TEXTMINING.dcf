@@ -1,0 +1,13 @@
+name: APLICACION_TEXTMINING
+title: APLICACION_TEXTMINING
+username:
+account: thellaxa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7826019
+bundleId: 6669889
+url: https://thellaxa.shinyapps.io/APLICACION_TEXTMINING/
+when: 1671867946.45782
+lastSyncTime: 1671867946.45784
+asMultiple: FALSE
+asStatic: FALSE
